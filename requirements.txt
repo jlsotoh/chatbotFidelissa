@@ -5,5 +5,4 @@ streamlit
 streamlit_chat
 faiss-cpu
 pymupdf
-pysqlite3
 chromadb
