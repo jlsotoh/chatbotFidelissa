@@ -1,3 +1,4 @@
+os
 streamlit
 streamlit_chat
 langchain_community
