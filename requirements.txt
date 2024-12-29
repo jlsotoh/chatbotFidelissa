@@ -5,5 +5,5 @@ streamlit
 streamlit_chat
 faiss-cpu
 pymupdf
-chromadb
 sqlite3
+chromadb
