@@ -1,8 +1,8 @@
+streamlit
+streamlit_chat
 langchain_community
 langchain_openai
 langchain_experimental
-streamlit
-streamlit_chat
 faiss-cpu
 pymupdf
 chromadb
